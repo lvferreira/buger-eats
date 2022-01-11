@@ -1,0 +1,50 @@
+{
+  "signup": {
+    "name": "Leandro Ferreira",
+    "cpf": "72158844817",
+    "email": "leo.ferreira@mail.io",
+    "wpp": "11944932687",
+    "address": {
+      "cep": "04534011",
+      "street": "Rua Joaquim Floriano",
+      "number": "452",
+      "complement": "Apt 142",
+      "district": "Itaim Bibi",
+      "city": "São Paulo/SP"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "invalid_cpf": {
+    "name": "Leandro Ferreira",
+    "cpf": "7215884481A",
+    "email": "leo.ferreira@mail.io",
+    "wpp": "11944932687",
+    "address": {
+      "cep": "04534011",
+      "street": "Rua Joaquim Floriano",
+      "number": "452",
+      "complement": "Apt 142",
+      "district": "Itaim Bibi",
+      "city": "São Paulo/SP"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "invalid_email": {
+    "name": "Leandro Ferreira",
+    "cpf": "72158844817",
+    "email": "usr.mail.io",
+    "wpp": "11944932687",
+    "address": {
+      "cep": "04534011",
+      "street": "Rua Joaquim Floriano",
+      "number": "452",
+      "complement": "Apt 142",
+      "district": "Itaim Bibi",
+      "city": "São Paulo/SP"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  }
+}
